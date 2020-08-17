@@ -12,7 +12,7 @@ var firebaseConfig = {
   messagingSenderId: "sender-id",
   appId: "app-id",
   measurementId: "G-measurement-id",
-};
+}; 
 
      
  
